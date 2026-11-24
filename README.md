@@ -1,15 +1,15 @@
 ### Jean-Rémy Cligny — AI Engineer
 
-Je conçois et je mets en production des **agents conversationnels** autour des LLMs, pour qu'ils restent utiles, sûrs et vérifiables dans une application métier.
+I design and ship **conversational agents** around LLMs, so they stay useful, safe, and verifiable in a business application.
 
-Huit ans d'ingénierie logicielle, formation école de commerce. Aujourd'hui chez [Esker](https://github.com/esker-software). Je partage aussi des livres générés avec l'aide d'outils d'IA, comme supports de formation.
+Eight years in software engineering, with a business-school background. Currently at [Esker](https://github.com/esker-software). I also share books generated with the help of AI tools, as training materials. The books are written in French.
 
-#### Livres
+#### Books
 
-Dans [ai-generated-books](https://github.com/jrcligny/ai-generated-books) :
+In [ai-generated-books](https://github.com/jrcligny/ai-generated-books):
 
-- **[De l'assistant à l'agent : anatomie d'un agent conversationnel](https://github.com/jrcligny/ai-generated-books/tree/main/construire-agent-conversationnel)** — conception d'un agent conversationnel pour une application métier, en dix-sept chapitres et des ateliers.
-- **[Fondamentaux du Machine Learning](https://github.com/jrcligny/ai-generated-books/tree/main/fondamentaux-machine-learning)** — construire un modèle, de la préparation des données aux réseaux de neurones, pour un ingénieur logiciel. Les parties I et II sont rédigées ; la suite est au plan.
+- **[De l'assistant à l'agent : anatomie d'un agent conversationnel](https://github.com/jrcligny/ai-generated-books/tree/main/construire-agent-conversationnel)** (*From Assistant to Agent: Anatomy of a Conversational Agent*) — designing a conversational agent for a business application, in seventeen chapters and workshops.
+- **[Fondamentaux du Machine Learning](https://github.com/jrcligny/ai-generated-books/tree/main/fondamentaux-machine-learning)** (*Machine Learning Fundamentals*) — building a model, from data preparation to neural networks, for a software engineer. Parts I and II are written; the rest is outlined.
 
 #### Contact
 
