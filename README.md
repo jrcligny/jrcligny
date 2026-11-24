@@ -1,6 +1,6 @@
 ### Jean-Rémy Cligny — AI Engineer
 
-AI Engineer at [Esker](https://github.com/esker-software). I design **business AI agents** and **coding agents** for users and customers, to personalize their product experience — not only software-delivery workflows.
+AI Engineer at [Esker](https://github.com/esker-software). My focus is delivering value to customers through new AI tools: agents that let them personalize their own product experience, and natural-language interfaces that make exploring their data as simple as asking a question.
 
 I also work on MCP servers and on AI tooling for engineering teams.
 
